@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mariadb://freelec-springboot2-webservice.chmxfyrjaxkt.ap-northeast-2.rds.amazonaws.com:3306/freelec_springboot2_webservice
     username: admin
-    password: dhgus227
+    password: afs227@@
     driver-class-name: org.mariadb.jdbc.Driver
   jpa:
     hibernate:
